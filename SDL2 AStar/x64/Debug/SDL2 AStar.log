@@ -1,0 +1,23 @@
+﻿  Core.cpp
+D:\repos\SDL2 AStar\SDL2 AStar\Systems.h(324,32): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\repos\SDL2 AStar\SDL2 AStar\Systems.h(326,42): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\repos\SDL2 AStar\SDL2 AStar\Systems.h(357,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\repos\SDL2 AStar\SDL2 AStar\Systems.h(358,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\repos\SDL2 AStar\SDL2 AStar\Core.cpp(140,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  SDL2 AStar.vcxproj -> D:\repos\SDL2 AStar\x64\Debug\SDL2 AStar.exe

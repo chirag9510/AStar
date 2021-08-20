@@ -1,0 +1,49 @@
+﻿  AssetStore.cpp
+  Core.cpp
+D:\repos\SDL2 AStar\SDL2 AStar\Systems.h(324,32): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\repos\SDL2 AStar\SDL2 AStar\Systems.h(326,42): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\repos\SDL2 AStar\SDL2 AStar\Systems.h(357,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\repos\SDL2 AStar\SDL2 AStar\Systems.h(358,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\repos\SDL2 AStar\SDL2 AStar\Core.cpp(140,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Source.cpp
+D:\repos\SDL2 AStar\SDL2 AStar\Systems.h(324,32): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\repos\SDL2 AStar\SDL2 AStar\Systems.h(326,42): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\repos\SDL2 AStar\SDL2 AStar\Systems.h(357,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\repos\SDL2 AStar\SDL2 AStar\Systems.h(358,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5978 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SDL2 AStar.vcxproj -> D:\repos\SDL2 AStar\x64\Release\SDL2 AStar.exe
